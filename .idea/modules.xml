@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GuessTheWordDataBinding.iml" filepath="$PROJECT_DIR$/GuessTheWordDataBinding.iml" group="GuessTheWordDataBinding" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="GuessTheWordDataBinding/app" />
+    </modules>
+  </component>
+</project>
