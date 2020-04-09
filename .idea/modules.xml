@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GuessTheWordDataBinding.iml" filepath="$PROJECT_DIR$/GuessTheWordDataBinding.iml" group="GuessTheWordDataBinding" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="GuessTheWordDataBinding/app" />
+      <module fileurl="file://$PROJECT_DIR$/5.4_LiveData_transformations.iml" filepath="$PROJECT_DIR$/5.4_LiveData_transformations.iml" group="5.4_LiveData_transformations" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="5.4_LiveData_transformations/app" />
     </modules>
   </component>
 </project>
